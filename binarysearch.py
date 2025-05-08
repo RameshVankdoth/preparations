@@ -16,3 +16,5 @@ def binary(arr, target):
 
 
 print(binary(arr, 8)) 
+
+# Update
