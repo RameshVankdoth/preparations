@@ -24,3 +24,5 @@ async def socket(websocket: WebSocket):
 @app.get("/names")
 def names():
     return {"Name": "Ramesh", "Age": 20}
+
+# Update
