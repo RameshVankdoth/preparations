@@ -31,3 +31,5 @@ quicksort(my_array)
 print("Sorted array:", my_array)
 t2 = time.time()
 print("Total time taken:", t2 - t1)
+
+# Update
