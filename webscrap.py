@@ -12,3 +12,5 @@ from bs4 import BeautifulSoup
 url = "https://api64.ipify.org?format=json"
 data = requests.get(url)
 print(data.json())
+
+# Update
